@@ -1,4 +1,4 @@
-<h2 align="left">Eu Marfos código - Muito Amor*</h2>
+<h2 align="left">Eu Marfos faço código - Muito Amor*</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/e9/e9/bc/e9e9bc4f350b984809f19ba230277800.gif)"  />
 
 ###
 
